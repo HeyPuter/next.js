@@ -16,7 +16,7 @@ const tabs: Tab[] = [
   {
     id: 'kv',
     label: 'KV store',
-    description: 'HotReload just kinda works for me now? and increment counters',
+    description: 'Get/set and increment counters',
     Component: KVExample
   },
   {
